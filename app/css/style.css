@@ -9,22 +9,25 @@ html, body {
     min-height: 60px;
     background-color: rgb(153, 180, 255);
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
 }
 .header__title {
-    align-self: center;
     margin: auto;
     padding: 15px;
     font-size: 28px;
     font-weight: bold;
 }
+.header__text {
+    margin: auto;
+    padding: 15px;
+}
+
 
 /* Content ................................................*/
 .container {
     text-align: center;
     margin: 0 auto;
-    background-color: rgb(151, 151, 151);
-}.content {
-    background-color: rgb(48, 48, 48);
 }
 
 .box {

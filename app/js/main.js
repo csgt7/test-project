@@ -1,7 +1,5 @@
 
-function tellMsg() {
-    let msg = "Hello, you're on my website";
-    alert(msg);
-}
 
-// tellMsg();
+let header_text = document.querySelector('.header__text');
+header_text.innerHTML = 'Welcome to my website';
+

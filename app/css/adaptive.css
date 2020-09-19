@@ -1,4 +1,4 @@
-@media screen and (max-width: 322px){
+@media screen and (max-width: 640px){
 html, body {
     font-size: 22px;
 }
@@ -17,6 +17,24 @@ html, body {
     font-size: 20px;
 }
 
+}
+
+@media screen and (max-width: 320px){
+html, body {
+    font-size: 24px;
+}
+.header {
+    background-color: rgb(13, 79, 201);
+    color: rgb(180, 180, 180);
+}
+
+.box__item {
+    background-color: rgb(51, 51, 51);
+    color: rgb(180, 180, 180);
+}
+.box__btn {
+    background-color: rgb(209, 153, 0);
+}
 }
 
 /* .............................. */
