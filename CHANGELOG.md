@@ -1,5 +1,10 @@
 
 
+---
+9/23/2020
+
+Added SEO Tags
+Added Colored tab theme for Chrome on Android
 
 ---
 9/19/2020
